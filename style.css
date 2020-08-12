@@ -21,11 +21,21 @@ flex-grow: 1;
   height: 22vh
 }
 
+#FeaturesHeader{
+  flex-grow: 1;
+}
+#featuresbody{
+  flex-grow: 1;
+}
+
+.card{
+  margin: auto;
+}
+
 .videoimage{
-  height: 50vh;
+  height: 30vh;
   width: 100%;
   background-image: url(./work.jpg);
   background-position: center;
   background-size: cover;
-
 }
