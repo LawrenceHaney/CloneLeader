@@ -12,3 +12,18 @@ flex-direction: column;
 main{
 flex-grow: 1;
 }
+
+#MainHeader{
+  height: 8vh
+}
+
+#Splash{
+  height: 22vh
+}
+
+.videoimage{
+  height: 400;
+  width:400;
+  background-image: url(work.jpg);
+
+}
