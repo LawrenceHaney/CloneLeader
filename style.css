@@ -22,8 +22,10 @@ flex-grow: 1;
 }
 
 .videoimage{
-  height: 400;
-  width:400;
-  background-image: url(work.jpg);
+  height: 50vh;
+  width: 100%;
+  background-image: url(./work.jpg);
+  background-position: center;
+  background-size: cover;
 
 }
