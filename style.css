@@ -1,6 +1,6 @@
-* {
+/* * {
   outline: 1px solid red;
-}
+} */
 
 body{
 margin: 0;
@@ -38,4 +38,8 @@ flex-grow: 1;
   background-image: url(./work.jpg);
   background-position: center;
   background-size: cover;
+}
+
+.hidden{
+  visibility: hidden;
 }
